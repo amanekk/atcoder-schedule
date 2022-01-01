@@ -3,3 +3,6 @@ node_modules/
 
 #clasp
 .clasp.json
+
+# security
+src/config_json.html
